@@ -64,6 +64,7 @@ python-playground-lab/
     ├── ch02-spirograph/
     ├── ch03-game-of-life/
     └── ...
+```
 
 ## Development Workflow
 
