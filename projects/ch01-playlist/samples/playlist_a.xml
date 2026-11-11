@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>Tracks</key>
+	<dict>
+		<key>101</key>
+		<dict>
+			<key>Artist</key>
+			<string>Studio North</string>
+			<key>Name</key>
+			<string>Harbour Lights</string>
+			<key>Total Time</key>
+			<integer>180000</integer>
+		</dict>
+		<key>102</key>
+		<dict>
+			<key>Artist</key>
+			<string>Studio North</string>
+			<key>Name</key>
+			<string>Habour Lights</string>
+			<key>Total Time</key>
+			<integer>180000</integer>
+		</dict>
+		<key>103</key>
+		<dict>
+			<key>Artist</key>
+			<string>Coastal Trio</string>
+			<key>Name</key>
+			<string>Harbour Lights</string>
+			<key>Total Time</key>
+			<integer>180000</integer>
+		</dict>
+	</dict>
+</dict>
+</plist>
